@@ -35,7 +35,7 @@ body {
 
 .resume .resume_left {
   width: 280px;
-  background: #0bb5f4;
+  background: #b958a9;
 }
 
 .resume .resume_left .resume_profile {
@@ -44,8 +44,10 @@ body {
 }
 
 .resume .resume_left .resume_profile img {
-  width: 100%;
-  height: 100%;
+  width: 70%;
+  height: 90%;
+  margin-left: 40;
+  margin-top: 30;
 }
 
 .resume .resume_left .resume_content {
