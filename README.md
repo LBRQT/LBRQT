@@ -1,6 +1,4 @@
-# Louise Briquet - 28 ans - *Web Developper en devenir* :rocket: 
-:fr: :gb:
-
+# Louise Briquet -:fr: :gb:- 28 ans - *Web Developper en devenir* :rocket: 
 
 ---
 
