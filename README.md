@@ -1,4 +1,4 @@
-# Louise Briquet - 28 ans - *Web Developper en devenir* :fusee: 
+# Louise Briquet - 28 ans - *Web Developper en devenir* :rocket: 
 ---
 
 
@@ -14,11 +14,10 @@ La formation que je suis, à l'avantage de nous préparer aux missions en entrep
 ### Compétences  
 
 
-* ![HTML5](https://fr.m.wikipedia.org/wiki/Fichier:HTML5_logo_and_wordmark.svg) 
-* ![CSS3](https://fr.m.wikipedia.org/wiki/Fichier:CSS3_logo_and_wordmark.svg)    
-* ![JS](https://fr.wikipedia.org/wiki/Fichier:Javascript-shield.svg)
-* ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-* ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-1024px-Bootstrap_logo.svg.png)
+* ![HTML5](./images/csshtml.jpeg =100x20)
+* ![JS](./images/js.jpeg =100x20)
+* ![PHP](./images/php.jpeg =100x20)
+* ![Bootstrap](./images/bootstrap-logo.png =100x20)
 
 #### A venir...
 
