@@ -8,20 +8,24 @@ Actuellement en formation au sein de l'école [O'clock](https://oclock.io/?utm_s
 
 Sérieuse, autonome, appliquée, je saurai exploiter toutes mes connaissances et en engranger de nouvelles.   
 
-La formation que je suis, à l'avantage de nous préparer aux missions en entreprise, nous avons l'habitude de travailler en pair programming, nous avons également appris à utiliser GitHub et Trello.   
+La formation que je suis, a l'avantage de nous préparer aux missions en entreprise, nous avons l'habitude de travailler en pair programming, nous avons également appris à utiliser GitHub et Trello. 
+
+
 
 
 ### Compétences  
 
-<img src="./images/csshtml.jpeg" alt="html/css" width="200" height="20"/>
-<img src="./images/js.jpeg" alt="javascript" width="200" height="20"/>
-<img src="./images/php.jpeg" alt="php" width="200" height="20"/>
-<img src="./images/bootstrap-logo.png" alt="bootstrap" width="200" height="20"/>
+<img src="./images/csshtml.jpeg" alt="html/css" width="160" height="87"/>
+<img src="./images/js.jpeg" alt="javascript" width="160" height="87"/>
+<img src="./images/php.jpeg" alt="php" width="160" height="87"/>
+<img src="./images/bootstrap-logo.png" alt="bootstrap" width="160" height="87"/>
+<img src="./images/MySQL.svg" alt="bootstrap" width="160" height="87"/>
+
 
 #### A venir...
 
 React
-Symfony 
+Symfony
 
 
 
