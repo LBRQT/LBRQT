@@ -10,12 +10,15 @@ Sérieuse, autonome, appliquée, je saurai exploiter toutes mes connaissances et
 
 La formation que je suis, a l'avantage de nous préparer aux missions en entreprise, nous avons l'habitude de travailler en pair programming, nous avons également appris à utiliser GitHub et Trello. 
 
-
-
+Je suis également  à respecter l'accessibilité, le référencement mais aussi rédiger un cahier des charges, le MVC *(Model-View-Controller)*.
 
 ### Compétences :hammer:
 
-<img src="./images/html5.png" alt="bootstrap" width="80" height="auto"/>
+<img src="./images/html5.png" alt="html" width="80" height="auto"/>
+<img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="80" height="auto"/>
+<img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="80" height="auto"/>
+<img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
+<img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/>
 
 
 #### A venir...
