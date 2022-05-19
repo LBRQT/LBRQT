@@ -1,6 +1,4 @@
-# Louise Briquet -:fr: :gb:- 28 ans - *Web Developper en devenir* :rocket: 
-
----
+# Louise Briquet :fr: - 28 ans - *Web Developper en devenir* :rocket: 
 
 ### Présentation :book:
 
@@ -14,8 +12,8 @@ Je suis également formée à respecter l'accessibilité, le référencement mai
 
 ### Compétences :hammer:
 
-<img src="./images/html5.png" alt="html" width="80" height="auto"/> <img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="80" height="auto"/>
-<img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="80" height="auto"/> <img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
+<img src="./images/html5.png" alt="html" width="80" height="auto"/> <img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="60" height="auto"/>
+<img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="60" height="auto"/> <img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
 <img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/>
 
 
@@ -23,6 +21,4 @@ Je suis également formée à respecter l'accessibilité, le référencement mai
 
 React
 Symfony
-
-
 
