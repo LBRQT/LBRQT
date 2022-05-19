@@ -15,12 +15,6 @@ La formation que je suis, a l'avantage de nous préparer aux missions en entrepr
 
 ### Compétences  
 
-<img src="./images/csshtml.jpeg" alt="html/css" width="160" height="87"/>
-<img src="./images/js.jpeg" alt="javascript" width="160" height="87"/>
-<img src="./images/php.jpeg" alt="php" width="160" height="87"/>
-<img src="./images/bootstrap-logo.png" alt="bootstrap" width="160" height="87"/>
-<img src="./images/MySQL.svg" alt="bootstrap" width="160" height="87"/>
-
 
 #### A venir...
 
