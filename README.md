@@ -13,11 +13,10 @@ La formation que je suis, à l'avantage de nous préparer aux missions en entrep
 
 ### Compétences  
 
-
-* ![HTML5](./images/csshtml.jpeg =100x20)
-* ![JS](./images/js.jpeg =100x20)
-* ![PHP](./images/php.jpeg =100x20)
-* ![Bootstrap](./images/bootstrap-logo.png =100x20)
+<img src="./images/csshtml.jpeg" alt="html/css" width="200" height="20"/>
+<img src="./images/js.jpeg" alt="javascript" width="200" height="20"/>
+<img src="./images/php.jpeg" alt="php" width="200" height="20"/>
+<img src="./images/bootstrap-logo.png" alt="bootstrap" width="200" height="20"/>
 
 #### A venir...
 
