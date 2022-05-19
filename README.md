@@ -13,9 +13,9 @@ La formation que je suis, a l'avantage de nous préparer aux missions en entrepr
 
 
 
-### Compétences :glasses:
+### Compétences :hammer:
 
-<img src="./images/html5.png" alt="bootstrap" width="80" height="45"/>
+<img src="./images/html5.png" alt="bootstrap" width="80" height="auto"/>
 
 
 #### A venir...
