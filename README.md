@@ -10,11 +10,11 @@ La formation que je suis, a l'avantage de nous préparer aux missions en entrepr
 
 Je suis également formée à respecter l'accessibilité, le référencement mais aussi rédiger un cahier des charges, le MVC *(Model-View-Controller)*.
 
-## Compétences en Développement Web :hammer:
+## Compétences en Développement Web *en cours d'acquisition* :hammer:
 
 <img src="./images/html5.png" alt="html" width="80" height="auto"/> <img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="60" height="auto"/>
 <img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="60" height="auto"/> <img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
-<img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/>
+<img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/><img src="./images/mysql-logo.webp" alt="mysql" width="80" height="auto"/>
 
 
 #### A venir...
@@ -34,7 +34,7 @@ Management d’une équipe. Communication sur les réseaux sociaux.
 Seconde le maître d’hôtel. Accueil, conseils et encaissement des clients. Mise en
 place des services du restaurant. Organisation des services.
 
-#### RESPONSABLE PETITS-DÉJEUNERS ET CHEF DE RANG, LE COMPTOIR NORDIQUE, CHAMONIX-MONT-BLANC *DÉCEMBRE 2017 - AVRIL 2018*
+#### RESPONSABLE PETITS-DÉJEUNERS & CHEF DE RANG, LE COMPTOIR NORDIQUE, CHAMONIX-MONT-BLANC *DÉCEMBRE 2017 - AVRIL 2018*
 En charge du petit déjeuner de l’hôtel Morgane 4*. Installation du buffet. Accueil
 des clients, prise de commande, encaissement. Veille au réassort du buffet. Gestion
 des stocks, des commandes, de la propreté. Mise en place du service du midi. Chef
