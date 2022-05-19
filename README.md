@@ -7,19 +7,18 @@ Actuellement en formation au sein de l'école [O'clock](https://oclock.io/?utm_s
 Sérieuse, autonome, appliquée, je saurai exploiter toutes mes connaissances et en engranger de nouvelles.   
 
 La formation que je suis, a l'avantage de nous préparer aux missions en entreprise, nous avons l'habitude de travailler en pair programming, nous avons également appris à utiliser GitHub et Trello tout ceci en suivant la méthode Agile (Scrum).
-
-Je suis également formée à respecter l'accessibilité, le référencement mais aussi rédiger un cahier des charges, le MVC *(Model-View-Controller)*.
+Je suis également formée à respecter l'accessibilité, le référencement mais aussi rédiger un cahier des charges, créer le MCD *(Modèle Conceptuel des Données)*.
 
 ## Compétences en Développement Web *en cours d'acquisition* :hammer:
 
-<img src="./images/html5.png" alt="html" width="80" height="auto"/> <img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="60" height="auto"/>
-<img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="60" height="auto"/> <img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
-<img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/><img src="./images/mysql-logo.webp" alt="mysql" width="80" height="auto"/>
+<img src="./images/html5.png" alt="html" width="80" height="auto"/>     <img src="./images/CSS3_logo_and_wordmark.svg.png" alt="css" width="60" height="auto"/>     
+<img src="./images/javascript-logo-8892AEFCAC-seeklogo.com_-264x300.png" alt="js" width="60" height="auto"/>     <img src="./images/PHP-logo.svg.png" alt="php" width="80" height="auto"/>
+    <img src="./images/Bootstrap_logo.svg.png" alt="bootstrap" width="80" height="auto"/>   <img src="./images/mysql-logo.webp" alt="mysql" width="80" height="auto"/>
 
 
 #### A venir...
 
-React
+React   
 Symfony
 
 
